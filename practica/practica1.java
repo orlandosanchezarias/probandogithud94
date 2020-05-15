@@ -4,6 +4,7 @@ public class practica1 {
         System.out.print("hola mundo");
         System.out.print("River Plate");
         System.out.print("Hola Felipito");
+        System.out.print("Hola 350");
     }
 }
 //prueba don felipito
